@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/athina-gkini-logo.svg"
+ },
+ "source_md5": "114a4da8f1953aac070d99fc40bce96d",
+ "version": "7a329181",
+ "tile": "#F3F0EA",
+ "crop": null,
+ "header": [
+  "file",
+  "assets/img/athina-gkini-logo.svg",
+  "114a4da8f1953aac070d99fc40bce96d"
+ ],
+ "made": "2026-10-16"
+}
